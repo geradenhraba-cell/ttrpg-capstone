@@ -11,6 +11,7 @@
   <li>Challenges</li>
   <li>Technologies Used</li>
   <li>Conclusion</li>
+  <li>PowerPoint</li>
 </ul>
 
 <h3>Overview</h3>
@@ -51,3 +52,7 @@ I had to figure out how to properly datetime certain sections and pull just the 
 <h3>Conclusion</h3>
 
 I found that European countries perfer projects outside of Fifth edition. Most of the projects i looked at were funded with very few items being cancelled or not fully funded. with most projects being fully funded on Backerkit at 97%. if i had more time i would like to have looked at how many backers were backing each project and what the average donation amount for each was, or if that data is even available to be seen on the websites. I would have also liked to dive deeper into other aspects of the projects and base analsyst on the inflation rate of the currencies to present day. While 5e and related projects are by far the most popular there are a few years in which they are not and other projects out perform them. 
+
+<h3>PowerPoint</h3>
+
+https://1drv.ms/p/c/32a075509c725c8a/IQAVCYVnDx2WS7qYwBhapCMTAXpgbdjqDp6WhTQ2hLi0y3c?e=B8CPdx
